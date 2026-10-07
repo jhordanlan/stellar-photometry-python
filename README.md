@@ -43,4 +43,4 @@ The processed observations were used to obtain calibrated stellar magnitudes and
 
 ## Academic Context
 
-This project was developed as part of the **Master's Degree in Astronomy and Astrophysics** at the Universitat Internacional de València (VIU).
+This project was developed as part of the **Master's Degree in Astronomy and Astrophysics** at the Valencian Internacional University (VIU).
